@@ -1,7 +1,7 @@
 
 # 🚀 Our Vision
 
-At Zoharix, we believe Africa deserves world-class technology built with innovation, simplicity, and scalability in mind.
+At  believe Africa deserves world-class technology built with innovation, simplicity, and scalability in mind.
 
 We are creating an ecosystem
 - Create opportunities
