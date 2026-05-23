@@ -1,8 +1,5 @@
 img.shields.io/badge/Innovation-Driveyle=for-the-badge&logo=vercel">
-
-- 💻 Custom Software
-- 🤖 Artificial Intelligence Solutions
-- 🌐 Web & Mobile Applications
+eb & Mobile Applications
 - 🎉 Event & Service Platforms
 - 📈 Business Digital Transformation
 - ☁️ Cloud & Deployment Solutions
