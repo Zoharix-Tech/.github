@@ -6,7 +6,7 @@ IX
 
 <p align="center">
   <img src="https://img.shields.io/badge/Innovation-Driven-black?style=for-the-badge&logo=vercel">
-  <img src="https://img.shields.io/badge/Made%20In-Ghana-gold?style=for-the-badge">
+  <img src="https://img.sh/badge/Made%20In-Ghana-gold?style=for-the-badge">
   <img src="https://img.shields.io/badge/Powered%20By-Zoharix-black?style=for-the-badge">
 </p>
 
