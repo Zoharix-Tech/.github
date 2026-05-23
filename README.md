@@ -3,8 +3,7 @@ tunities
 - Drive digital transformation
 
 ---
-
-| Frontend | Backend | Database | Cloud & Tools |
+nd | Database | Cloud & Tools |
 |----------|----------|-----------|----------------|
 | ⚛️ React | 🟢 Node.js | 🍃 MongoDB | ▲ Vercel |
 | 🎨 Tailwind CSS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Cloudflare |
