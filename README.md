@@ -2,8 +2,7 @@
 
 <p align="cent
   <img src="https://img.shields.io/badge/Innovation-Driveyle=for-the-badge&logo=vercel">
-  <img src="https:/badge/Made%ld?style=fo">
-  <img s
+ 
 **Zoharix** is a modern technology company focused on building scalable digital solutions that solve real-world problems across Africa and beyond.
 
 We specialize in:
