@@ -5,7 +5,7 @@ IX
 ### 🚀 Building The Future Through Software, AI & Digital Innovation
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Innovation-Driven-black?style=for-the-badge&logo=vercel">
+  <img src="https://img.shields.io/badge/Innovation-Driveyle=for-the-badge&logo=vercel">
   <img src="https://img.sh/badge/Made%20In-Ghana-gold?style=for-the-badge">
   <img src="https://img.shields.io/badge/Powered%20By-Zoharix-black?style=for-the-badge">
 </
