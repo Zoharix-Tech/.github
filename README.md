@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖤💛 ZOHARIX
+IX
 
 ### 🚀 Building The Future Through Software, AI & Digital Innovation
 
