@@ -1,7 +1,5 @@
 <div align="center">
 
-IX
-ure Th
 <p align="cent
   <img src="https://img.shields.io/badge/Innovation-Driveyle=for-the-badge&logo=vercel">
   <img src="https:/badge/Made%ld?style=fo">
