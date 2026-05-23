@@ -1,6 +1,5 @@
 img.shields.io/badge/Innovation-Driveyle=for-the-badge&logo=vercel">
-eb & Mobile Applications
-- 🎉 Event & Service Platforms
+eb &orms
 - 📈 Business Digital Transformation
 - ☁️ Cloud & Deployment Solutions
 
