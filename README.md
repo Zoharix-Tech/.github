@@ -3,10 +3,7 @@
 
 At Zoharix, we believe Africa deserves world-class technology built with innovation, simplicity, and scalability in mind.
 
-We are creating an ecosystem of products designed to:
-- Simplify workflows
-- Increase accessibility
-- Empower businesses
+We are creating an ecosystem
 - Create opportunities
 - Drive digital transformation
 
