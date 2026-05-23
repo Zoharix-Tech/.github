@@ -1,8 +1,6 @@
 img.shields.io/badge/Innovation-Driveyle=for-the-badge&logo=vercel">
  
-**Zoharix** is a modern technology company focused on building scalable digital solutions that solve real-world problems across Africa and beyond.
-
-We specialize in:
+**Zoharix** is a modern technology company focused on building scalable digital solutions that solve real-world problems across Africa n:
 
 - 💻 Custom Software
 - 🤖 Artificial Intelligence Solutions
