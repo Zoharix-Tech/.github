@@ -1,7 +1,6 @@
 img.shields.io/badge/Innovation-Driveyle=for-the-badge&logo=vercel">
 eb &orms
-- 📈 Business Digital Transformation
-- ☁️ Cloud & Deployment Solutions
+- d & Deployment Solutions
 
 Our mission is simple:
 
