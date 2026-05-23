@@ -1,6 +1,5 @@
 img.shields.io/badge/Innovation-Driveyle=for-the-badge&logo=vercel">
 eb &ormss
-imple:
 
 > **Build powerful technology that empowers people, businesses, and communities.**
 
