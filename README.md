@@ -1,5 +1,4 @@
 
-# 🚀 Our Vision
 
 At  believe Africa deserves world-class technology built with innovation, simplicity, and scalability in mind.
 
