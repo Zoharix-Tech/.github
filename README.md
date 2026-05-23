@@ -4,8 +4,6 @@ tunities
 
 ---
 
-<div align="center">
-
 | Frontend | Backend | Database | Cloud & Tools |
 |----------|----------|-----------|----------------|
 | ⚛️ React | 🟢 Node.js | 🍃 MongoDB | ▲ Vercel |
