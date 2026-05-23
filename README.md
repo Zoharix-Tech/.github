@@ -5,8 +5,6 @@ tunities
 
 ---
 
-# 🛠️ Technologies We Use
-
 <div align="center">
 
 | Frontend | Backend | Database | Cloud & Tools |
