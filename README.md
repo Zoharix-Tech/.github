@@ -1,8 +1,7 @@
 <div align="center">
 
 IX
-ure Through Software, AI & Digital Innovation
-
+ure Th
 <p align="center">
   <img src="https://img.shields.io/badge/Innovation-Driveyle=for-the-badge&logo=vercel">
   <img src="https:/badge/Made%ld?style=fo">
