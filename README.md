@@ -1,8 +1,4 @@
 
-> **Build powerful technology that empowers people, businesses, and communities.**
-
----
-
 # 🚀 Our Vision
 
 At Zoharix, we believe Africa deserves world-class technology built with innovation, simplicity, and scalability in mind.
