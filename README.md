@@ -5,7 +5,7 @@ ure Through Software, AI & Digital Innovation
 
 <p align="center">
   <img src="https://img.shields.io/badge/Innovation-Driveyle=for-the-badge&logo=vercel">
-  <img src="https:/badge/Made%ld?style=for-the-badge">
+  <img src="https:/badge/Made%ld?style=fo">
   <img src="https://img.shields.io/badge/Powered%20By-Zoharix-black?st
 # 🌍 About Zoharix
 
