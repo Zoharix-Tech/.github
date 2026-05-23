@@ -1,4 +1,3 @@
-nology built with innovation, simplicity, and scalability in mind.
 
 tunities
 - Drive digital transformation
