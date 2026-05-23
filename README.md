@@ -1,8 +1,7 @@
 <div align="center">
 
 IX
-
-### 🚀 Building The Future Through Software, AI & Digital Innovation
+ure Through Software, AI & Digital Innovation
 
 <p align="center">
   <img src="https://img.shields.io/badge/Innovation-Driveyle=for-the-badge&logo=vercel">
