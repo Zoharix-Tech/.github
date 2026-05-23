@@ -7,7 +7,7 @@
 
 We specialize in:
 
-- 💻 Custom Software Development
+- 💻 Custom Software
 - 🤖 Artificial Intelligence Solutions
 - 🌐 Web & Mobile Applications
 - 🎉 Event & Service Platforms
