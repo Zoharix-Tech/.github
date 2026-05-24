@@ -1,8 +1,4 @@
-
- | Database | Cloud &--------|----------|-----------
- projects
-- Sponsorships
-- Tech innovation opportunities
+opportunities
 
 ---
 
