@@ -3,9 +3,7 @@
 SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ C
 ## 🤖 JobPilotAI *
 An AI-powered career platform helping users:
-- Build professio
-- Generate 
-#
+- Build professi
 ✅ Modern & Scalabl
 ✅ User-F
 ✅ Fast & Secure Systems  
