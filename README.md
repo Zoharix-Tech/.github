@@ -6,10 +6,7 @@ nd | Database | Cloud &--------|----------|-----------|----------------|
 | ⚛️ React | 🟢 Node.js | 🍃 MongoDB | ▲ Vercel |
 | 🎨 Tailwind CSS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Cloudflare |
 | 🌐 HTML/CSS/JS ase | 🐳 Docker |
-| 📱 Responsive UI | 🔐 REST s | 🔧 GitHub |
-
-</div>
-
+| 📱 Responsive UI | 🔐 REST s | 🔧 GitHu
 ---
 
 # 🌟 Our Products
