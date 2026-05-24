@@ -1,8 +1,6 @@
 
  | Database | Cloud &--------|----------|-----------|----------------|
-SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Cloudflare |
-| 🌐 HT
-| 
+SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Clou
 ## 🎉 Z-Events
 > Host events. Discover servige everything 
 A modern event and servi
