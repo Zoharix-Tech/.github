@@ -5,7 +5,7 @@ SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Clou
 > Host events. Discover servige everything 
 A modern event and servi
 - Discover vendors & service providers
-- Send inquiries seamlessly
+- Sendamlessly
 - Promote businesse
 
 🔗 **Live:**  
