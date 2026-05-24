@@ -1,5 +1,5 @@
 
-nd | Database | Cloud &--------|----------|-----------|----------------|
+ | Database | Cloud &--------|----------|-----------|----------------|
 SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Cloudflare |
 | 🌐 HT
 | 📱 Responsi
