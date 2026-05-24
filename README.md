@@ -1,10 +1,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌍_Website-black?style=for-the-badge)](https://zoharix.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gold?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/zoharix/)
-[![Twitter](https://img.shields.io/badge/Twitter/X-black?style=for-the-badge&logo=x)](https://x.com/zoharix_tech)
-[![Instagram](https://img.shields.io/badge/Instagram-gold?style=for-the-badge&logo=instagram)](https://instagram.com/zoharix)
+[![Website](https://img.shieldstyle=for-the-badge&logo=instagram)](https://instagram.com/zoharix)
 
 </div>
 
