@@ -12,7 +12,7 @@ An AI-powered career platform helping users:
 
 # 🤝 Cs
 
-We’re open to:
+
 - Startup collaborations
 - Business partnerships
 - Freelance projects
