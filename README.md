@@ -3,8 +3,7 @@
 SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Clou
  and servi
 - Discover vend
-- Sendamlessly
-- Pro
+- Senda
 
 🔗 **Live:**  
 https
