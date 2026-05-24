@@ -5,9 +5,6 @@ SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ C
 An AI-powered career platform helping users:
 - Build professio
 - Generate covor interviews
-- Track job 
-
----
 
 # 💡 Why Zoharix?
 
