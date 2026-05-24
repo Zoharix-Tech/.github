@@ -10,7 +10,7 @@ A modern event and service ecosystem that allows users to:
 - 
 - Discover vendors & service providers
 - Send inquiries seamlessly
-- Promote businesses and services
+- Promote businesse
 
 🔗 **Live:**  
 https://z-events.zoharix.tech
