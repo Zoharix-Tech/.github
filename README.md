@@ -13,7 +13,7 @@ SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Cloudflare |
 > Host events. Discover services. Manage everything in one place.
 
 A modern event and service ecosystem that allows users to:
-- Host and manage events
+- Host and ma
 - Discover vendors & service providers
 - Send inquiries seamlessly
 - Promote businesses and services
