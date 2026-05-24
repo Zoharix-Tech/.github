@@ -5,8 +5,7 @@ SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ C
 An AI-powered career platform helping users:
 - Build professio
 - Generate 
-# 💡 Why Zoharix?
-
+#
 ✅ Modern & Scalable Solutions  
 ✅ User-F
 ✅ Fast & Secure Systems  
