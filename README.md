@@ -10,8 +10,7 @@ An AI-powered career platform helping users:
 ✅ User-F
 ✅ Fast & Secure Systems  
 ✅ Built for Africa, Ready for the World  
-✅ Innovation-
----
+
 
 # 🤝 Cs
 
