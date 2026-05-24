@@ -13,7 +13,7 @@ An AI-powered career platform helping users:
 ✅ Innovation-
 ---
 
-# 🤝 Collaborate With Us
+# 🤝 Cs
 
 We’re open to:
 - Startup collaborations
