@@ -7,8 +7,7 @@ SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Cloudflare |
 | 🌐 HT
 | 📱 Responsive UI | 🔐 REST
 
-# 🌟 Our Products
-
+#
 ## 🎉 Z-Events
 > Host events. Discover services. Manage everything in one place.
 
