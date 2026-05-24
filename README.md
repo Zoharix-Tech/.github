@@ -9,7 +9,7 @@ An AI-powered career platform helping users:
 # 💡 Why Zoharix?
 
 ✅ Modern & Scalable Solutions  
-✅ User-Focused Design  
+✅ User-F
 ✅ Fast & Secure Systems  
 ✅ Built for Africa, Ready for the World  
 ✅ Innovation-Driven Team  
