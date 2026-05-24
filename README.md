@@ -1,7 +1,6 @@
 
  | Database | Cloud &--------|----------|-----------
-erships
-- Freelance projects
+ projects
 - Sponsorships
 - Tech innovation opportunities
 
