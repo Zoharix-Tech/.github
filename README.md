@@ -1,10 +1,7 @@
 
  | Database | Cloud &--------|----------|-----------|----------------|
 SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Clou
- and servi
-- Dis
-- Senda
-
+ and ser
 🔗
 https
 ## 🤖 JobPilotAI *
