@@ -5,7 +5,7 @@ SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Clou
 - Dis
 - Senda
 
-🔗 **Live:**  
+🔗
 https
 ## 🤖 JobPilotAI *(Coming Soon)*
 An AI-powered career platform helping users:
