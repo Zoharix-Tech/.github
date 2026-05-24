@@ -5,10 +5,7 @@ SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ C
 An AI-powered career platform helping users:
 - Build professi
 ✅ Modern & Scalabl
-✅ User-F
-✅ Fast & Secure Systems  
-✅ Built for Africa, Ready for the World  
-
+✅ User-
 
 # 🤝 Cs
 
