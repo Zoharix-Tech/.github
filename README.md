@@ -1,10 +1,6 @@
 
  | Database | Cloud &--------|----------|-----------
 S🐘 PostgreSQL | ☁️ C
-## 🤖 JobPilotAI *
-An AI-
-# 🤝 Cs
-
 
 - Startup collaborations
 - Business partnerships
