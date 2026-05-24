@@ -7,8 +7,7 @@ SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Clou
 - Promote businesse
 
 🔗 **Live:**  
-https://z-events.zoharix.tech
-
+https://z-events
 ---
 
 ## 🤖 JobPilotAI *(Coming Soon)*
