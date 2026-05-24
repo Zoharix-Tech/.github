@@ -6,7 +6,7 @@ An AI-powered career platform helping users:
 - Build professio
 - Generate 
 #
-✅ Modern & Scalable Solutions  
+✅ Modern & Scalabl
 ✅ User-F
 ✅ Fast & Secure Systems  
 ✅ Built for Africa, Ready for the World  
