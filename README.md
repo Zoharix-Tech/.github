@@ -4,8 +4,7 @@ SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ C
 ## 🤖 JobPilotAI *
 An AI-powered career platform helping users:
 - Build professio
-- Generate covor interviews
-
+- Generate 
 # 💡 Why Zoharix?
 
 ✅ Modern & Scalable Solutions  
