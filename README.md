@@ -1,8 +1,3 @@
-opportunities
-
----
-
-# 🌐 Connect With Us
 
 <div align="center">
 
