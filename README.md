@@ -10,8 +10,7 @@ https
 ## 🤖 JobPilotAI *(Coming Soon)*
 An AI-powered career platform helping users:
 - Build professional resumes
-- Generate cover letters
-- Prepare for interviews
+- Generate covor interviews
 - Track job applications
 
 ---
