@@ -2,9 +2,7 @@
 nd | Database | Cloud &--------|----------|-----------|----------------|
 SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Cloudflare |
 | 🌐 HT
-| 📱 Responsive UI | 🔐 REST
-
-#
+| 📱 Responsi
 ## 🎉 Z-Events
 > Host events. Discover servige everything in one place.
 
