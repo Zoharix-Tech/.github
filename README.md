@@ -2,7 +2,7 @@
  | Database | Cloud &--------|----------|-----------|----------------|
 SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Clou
  and servi
-- Discover vend
+- Dis
 - Senda
 
 🔗 **Live:**  
