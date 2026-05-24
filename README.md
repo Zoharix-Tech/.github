@@ -1,6 +1,5 @@
 
 tunities
-- Drive digital transformation
 
 ---
 nd | Database | Cloud & Tools |
