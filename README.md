@@ -4,8 +4,7 @@ SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Cloudflare |
 | 🌐 HT
 | 
 ## 🎉 Z-Events
-> Host events. Discover servige everything in one place.
-
+> Host events. Discover servige everything 
 A modern event and service ecosystem
 - Discover vendors & service providers
 - Send inquiries seamlessly
