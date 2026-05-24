@@ -5,7 +5,7 @@ tunities
 nd | Database | Cloud &--------|----------|-----------|----------------|
 | ⚛️ React | 🟢 Node.js | 🍃 MongoDB | ▲ Vercel |
 | 🎨 Tailwind CSS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Cloudflare |
-| 🌐 HTML/CSS/JS ase | 🐳 Docker |
+| 🌐 HTML/CSS/JS ase |
 | 📱 Responsive UI | 🔐 REST s | 🔧 GitHu
 ---
 
