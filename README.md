@@ -6,7 +6,7 @@ SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Cloudflare |
 ## 🎉 Z-Events
 > Host events. Discover servige everything in one place.
 
-A modern event and service ecosystem that allows users to:
+A modern event and service ecosystem tusers to:
 - 
 - Discover vendors & service providers
 - Send inquiries seamlessly
