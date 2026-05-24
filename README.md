@@ -4,7 +4,7 @@ SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Clou
  and servi
 - Discover vend
 - Sendamlessly
-- Promote businesse
+- Pro
 
 🔗 **Live:**  
 https://z-events
