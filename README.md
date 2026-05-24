@@ -1,9 +1,7 @@
 
  | Database | Cloud &--------|----------|-----------|----------------|
 SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Clou
-## 🎉 Z-Events
-> Host events. Discover servige everything 
-A modern event and servi
+ and servi
 - Discover vend
 - Sendamlessly
 - Promote businesse
