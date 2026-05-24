@@ -8,7 +8,7 @@ nd | Database | Cloud & Tools |
 | ⚛️ React | 🟢 Node.js | 🍃 MongoDB | ▲ Vercel |
 | 🎨 Tailwind CSS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Cloudflare |
 | 🌐 HTML/CSS/JS |  | 🗄️ Supabase | 🐳 Docker |
-| 📱 Responsive UI | 🔐 REST APIs | ⚡ Redis | 🔧 GitHub |
+| 📱 Responsive UI | 🔐 REST s | 🔧 GitHub |
 
 </div>
 
