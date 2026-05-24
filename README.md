@@ -11,7 +11,7 @@ https
 An AI-powered career platform helping users:
 - Build professional resumes
 - Generate covor interviews
-- Track job applications
+- Track job 
 
 ---
 
