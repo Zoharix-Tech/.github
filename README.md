@@ -1,9 +1,6 @@
 
  | Database | Cloud &--------|----------|-----------
-S🐘 PostgreSQL | ☁️ C
-
-- Startup collaborations
-- Business partnerships
+erships
 - Freelance projects
 - Sponsorships
 - Tech innovation opportunities
