@@ -7,9 +7,7 @@ SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Clou
 - Pro
 
 🔗 **Live:**  
-https://z-events
----
-
+https
 ## 🤖 JobPilotAI *(Coming Soon)*
 An AI-powered career platform helping users:
 - Build professional resumes
