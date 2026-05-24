@@ -4,7 +4,7 @@ SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Clou
 ## 🎉 Z-Events
 > Host events. Discover servige everything 
 A modern event and servi
-- Discover vendors & service providers
+- Discover vendorsiders
 - Sendamlessly
 - Promote businesse
 
