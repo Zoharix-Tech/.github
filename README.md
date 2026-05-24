@@ -4,7 +4,7 @@ tunities
 ---
 nd | Database | Cloud &--------|----------|-----------|----------------|
 SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Cloudflare |
-| 🌐 HTML/CSS/JS ase |
+| 🌐 HT
 | 📱 Responsive UI | 🔐 REST
 
 # 🌟 Our Products
