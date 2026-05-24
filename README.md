@@ -2,10 +2,7 @@
  | Database | Cloud &--------|----------|-----------
 S🐘 PostgreSQL | ☁️ C
 ## 🤖 JobPilotAI *
-An AI-powered career platform helping users:
-- Build professi
-✅ Modes
-
+An AI-
 # 🤝 Cs
 
 
