@@ -1,5 +1,5 @@
 
- | Database | Cloud &--------|----------|-----------|----------------|
+ | Database | Cloud &--------|----------|-----------
 SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ C
 ## 🤖 JobPilotAI *
 An AI-powered career platform helping users:
