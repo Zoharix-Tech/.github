@@ -9,7 +9,7 @@ SS | 🚂 Express.js | 🐘 PostgreSQL | ☁️ Clou
 https
 ## 🤖 JobPilotAI *
 An AI-powered career platform helping users:
-- Build professional resumes
+- Build professio
 - Generate covor interviews
 - Track job 
 
